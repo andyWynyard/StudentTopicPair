@@ -4,7 +4,7 @@ public class Main {
 /**
  * To create list of topics that Students
  * will be assigned to
- * @author andrewwynyard
+ * @author andyWynyard
  * @param args
  */
 	public static void main(String args[]) {
